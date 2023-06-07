@@ -1,0 +1,8 @@
+* {
+    margin: 8px;
+}
+
+.box {
+    background-color: darkblue;
+    border-radius: 12px;
+}
